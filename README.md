@@ -1,1 +1,1 @@
-# crochet
+this is a personal project I'm working on. it is about crochet. for now it is a work in progress. this program will tell you what different abbreviations in patterns mean (using american crochet terms)
