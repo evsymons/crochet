@@ -1,6 +1,6 @@
-print("This program will tell you the meanings of different crochet stitch abbreviations. It can also output a random type of stitch to learn!")
+print("This program will tell you the meanings of different crochet stitch abbreviations.")
 print("Note: This program uses American abbreviations.")
-stitch = input('Please enter the stitch abbreviation, or enter "random" for a random type of stitch to learn. Enter "end" to exit.').lower()
+stitch = input('Please enter the stitch abbreviation. Enter "end" to exit.').lower()
 
 
 while stitch != "end":
@@ -65,5 +65,5 @@ while stitch != "end":
     else:
         print("Sorry! Either I don't know that stitch, or something was written incorrectly.")
 
-    stitch = input('Please enter the stitch abbreviation, or enter "random" for a random type of stitch to learn. Enter "end" to exit.').lower()
+    stitch = input('Please enter the stitch abbreviation. Enter "end" to exit.').lower()
 
